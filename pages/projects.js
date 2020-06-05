@@ -51,10 +51,20 @@ const Projects = () => (
             <td>Hangman game with "car manufacturers"</td>
             <td>
               <a href='https://jeffpwalsh-hangman.herokuapp.com/'>
-                temporarily removed
+                deployed
               </a>
             </td>
             <td>React</td>
+          </tr>
+          <tr>
+            <td>Bio</td>
+            <td>Full Extensive personal bio/resume</td>
+            <td>
+              <a href='bio.jeffwalsh.co.za'>
+                deployed
+              </a>
+            </td>
+            <td>HTML, CSS, JavaScript, jQuery</td>
           </tr>
         </tbody>
       </table>
