@@ -60,7 +60,7 @@ const Projects = () => (
             <td>Bio</td>
             <td>Full Extensive personal bio/resume</td>
             <td>
-              <a href='bio.jeffwalsh.co.za'>
+              <a href='https://bio.jeffwalsh.co.za/'>
                 deployed
               </a>
             </td>
